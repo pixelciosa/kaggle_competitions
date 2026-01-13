@@ -1,0 +1,8 @@
+
+gradio>=5.49.1
+imblearn>=0.0
+plotly>=6.3.1
+plotnine>=0.15.0
+xgboost>=3.1.2
+ydata-profiling>=4.17.0
+
